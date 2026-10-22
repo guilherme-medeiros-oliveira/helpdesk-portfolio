@@ -27,6 +27,11 @@
 ### 📸 Meu lab rodando
 ![Inventario](docs/inventario.png)
 
+## O que esse script coleta
+- Hostname, usuário, IP
+- Memória, processador, disco
+- Compatível com Windows 10 e 11
+
 ### 🚀 Como executar
 1. Baixe a pasta `scripts`
 2. Clique direito > Executar como administrador
