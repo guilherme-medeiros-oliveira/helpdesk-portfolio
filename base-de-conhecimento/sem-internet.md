@@ -1,29 +1,19 @@
 # Sem Internet - Guia de Troubleshooting N1
 
-Sintoma: Usuario relata falta de acesso a internet.
+**Sintoma:** Usuário relata falta de acesso à internet.
 
-Checklist de atendimento
+**Público:** Usuário final e analista N1
 
-1. Validacao inicial
-- Perguntar: e so em um site ou em tudo?
-- Verificar se o icone de rede esta conectado
+### Checklist de atendimento (ordem correta)
 
-2. Comandos basicos
+**1. Validação inicial (2 min)**
+- Perguntar: é só em um site ou em tudo? Afeta outros colegas?
+- Verificar se o ícone de rede está conectado
+- Perguntar se houve queda de energia recente
+
+**2. Comandos básicos (Windows)**
+```bat
 ipconfig /release
 ipconfig /renew
 ipconfig /flushdns
-
-3. Testes
-- ping 8.8.8.8
-- ping google.com
-
-4. Solucoes N1
-- Reiniciar adaptador de rede
-- Esquecer e reconectar Wi-Fi
-- Reiniciar roteador
-
-5. Quando escalar para N2
-- IP com 169.254.x.x
-- Todos os usuarios do setor sem rede
-
 Autor: Guilherme Medeiros
