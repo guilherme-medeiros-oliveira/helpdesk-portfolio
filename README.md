@@ -1,6 +1,6 @@
 # Guilherme Medeiros | Help Desk N1 | Suporte Jr | Carapicuíba-SP
 
-📍 Osasco/SP - Disponível para Presencial, Híbrido e Remoto
+📍 Carapicuíba/SP - Disponível para Presencial, Híbrido e Remoto
 🔎 Em busca de primeira oportunidade como **Help Desk N1, Analista de Suporte Jr, Estágio em TI**
 
 ### 🛠️ O que eu já resolvo no meu lab
